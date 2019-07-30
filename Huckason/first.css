@@ -1,0 +1,39 @@
+#first{
+  margin:0 auto;
+  padding:0 auto;
+  height:100vh;
+  width:100%;
+  display:block;
+  text-align:center;
+}
+#first h1{
+  margin:0 auto;
+  padding:0 auto;
+  position:relative;
+  top:10%;
+  font-size:60px;
+}
+#first .img_first{
+  position:relative;
+  top:180px;
+  left:-270px;
+  width:18%;
+  max-width:400px;
+}
+#first table{
+  margin:0 auto;
+  padding:0 auto;
+  position:absolute;
+  top:32%;
+  left:151%;
+  font-size:30px;
+  width:30%;
+}
+#first button{
+  font-size:30px;
+  line-height:100px;
+  background-color:white;
+  border:solid 1px white;
+  transition:0.3s;
+  width:500px;
+}
